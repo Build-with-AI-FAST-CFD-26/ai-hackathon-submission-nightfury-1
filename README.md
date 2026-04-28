@@ -55,7 +55,7 @@ Helps early-stage startups operate like well-funded teams
 Follow these steps to run the project locally:
 
 # 1. Clone the repository
-git clone https://github.com/your-username/founderos.git
+git clone https://github.com/Build-with-AI-FAST-CFD-26/ai-hackathon-submission-nightfury-1
 cd founderos
 
 # 2. Install dependencies
